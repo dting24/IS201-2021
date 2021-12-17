@@ -1,0 +1,29 @@
+p{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: rgba(176, 196, 222, 0.685)
+}
+
+h2{
+    text-decoration: underline;
+}
+
+ul{
+    font-style: oblique
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    
+}
+
+
+/* if you want your style to overwrite another style, put it at the end of the links
+<link rel="stylesheet" href= "css/overwrite.css" type= "text/css">
+*/

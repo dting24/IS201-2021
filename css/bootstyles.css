@@ -1,0 +1,32 @@
+p{
+    font-weight: bold;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: large;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+body {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    height: 10px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #99999999;
+    text-align: center;
+    position: fixed;
+}
